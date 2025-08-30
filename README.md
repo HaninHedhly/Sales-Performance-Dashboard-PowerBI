@@ -1,4 +1,4 @@
-📊 Power BI Dashboard – Sales-Performance-Dashboard-PowerBI
+### 📊 Power BI Dashboard – Sales-Performance-Dashboard-PowerBI
 
 ## 🎯 Objective
 The goal of this project is to design an interactive Power BI dashboard that provides clear insights into [dataset context, e.g., sales performance, HR analytics, financial KPIs]. 
